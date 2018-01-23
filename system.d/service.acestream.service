@@ -1,0 +1,13 @@
+[Unit]
+Description=Ace Stream Media
+
+[Service]
+Type=simple
+ExecStart=/bin/sh /storage/.config/acestream/autostart.sh
+ExecStop=/bin/kill -TERM $MAINPID
+ExecStopPost=/bin/sh -c 'exec /storage/.config/acestream/autostart.sh'
+Restart=on-failure
+
+[Install]
+WantedBy=kodi.target
+
