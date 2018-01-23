@@ -5,6 +5,9 @@ which will take you to a new high-quality level of multimedia space on the Inter
 This is an assembly for ARMv7 Raspberry Pi,Libre~OpenElec and is a modified assembly 
 of Dorik1972 forum 4pda http://4pda.ru/forum/index.php?s=&showtopic=737440&view=findpost&p=59539138
 
+Start engine: autostart.sh
+Stop engine: acestream.stop
+
 Settings are the same as in Android:
 vod_cache_type = memory|disk 
 live_cache_type = memory|disk
