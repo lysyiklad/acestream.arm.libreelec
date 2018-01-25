@@ -1,4 +1,4 @@
-### ACE Stream Media ver. 3.1.24.2 ARMv7 (LibreELEC)
+### ACE Stream Media ver. 3.1.24.2 ARM (LibreELEC)
 
 ACE Stream Media this is an innovative media platform of a new generation, 
 which will take you to a new high-quality level of multimedia space on the Internet.
