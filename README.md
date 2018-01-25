@@ -1,4 +1,4 @@
-### ACE Stream Media ver. 3.1.24.2 ARMv7
+### ACE Stream Media ver. 3.1.24.2 ARMv7 (LibreELEC)
 
 ACE Stream Media this is an innovative media platform of a new generation, 
 which will take you to a new high-quality level of multimedia space on the Internet.
@@ -8,10 +8,9 @@ of @Dorik1972 [forum 4pda](http://4pda.ru/forum/index.php?s=&showtopic=737440&vi
 WebUI: http://ip_box:6878/webui/app/WEBUITOKEN/server
 
 Start engine: autostart.sh
-
 Stop engine: acestream.stop
 
-Settings are the same as in Android:
+Settings are the same as in Android in settings.conf:
 
 vod_cache_type = memory|disk 
 
@@ -57,4 +56,4 @@ dht_transmissionbt_com="212.129.33.59"
 
 router_bittorrent_com="67.215.246.10"
 
-Addon for Kodi in [repository.search.db](https://github.com/seppius-xbmc-repo/ru/tree/master/repository.search.db)
+Addon for Kodi in [repository.search.db](https://github.com/seppius-xbmc-repo/ru/tree/master/repository.search.db) or download [forum 4pda](http://4pda.ru/forum/index.php?s=&showtopic=823683&view=findpost&p=68618451) 
